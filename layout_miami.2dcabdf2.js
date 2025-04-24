@@ -1,0 +1,2 @@
+"use strict";var form=document.querySelector(".form");window.addEventListener("hashchange",function(){"#menu"===window.location.hash?document.body.classList.add("page__body--with-menu"):document.body.classList.remove("page__body--with-menu")}),"#menu"===window.location.hash&&document.body.classList.add("page__body--with-menu"),form.addEventListener("submit",function(e){e.preventDefault()});
+//# sourceMappingURL=layout_miami.2dcabdf2.js.map
